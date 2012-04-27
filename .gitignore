@@ -15,4 +15,4 @@
 /tmp
 
 # RubyMine
-.idea/workspace.xml
+/.idea/*
